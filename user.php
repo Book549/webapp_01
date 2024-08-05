@@ -5,6 +5,7 @@
 </head>
 <body>
 	<a href="add.php">add</a>
+	<a href="logout.php">logout</a>
 	<?php 
 	include("conn.php");
 	$user_id = $_SESSION['user_id'];

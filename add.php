@@ -6,6 +6,8 @@
 	<title></title>
 </head>
 <body>
+	<a href="add_admin.php">add</a>
+	<a href="logout.php">logout</a>
 	<?php 
 	include "conn.php";
 	?>
